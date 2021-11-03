@@ -20,6 +20,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Build\README.MD" />
+    <None Include="README.MD" />
   </ItemGroup>
 </Project>
